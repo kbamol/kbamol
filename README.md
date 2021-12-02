@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbamol
-- 👀 I’m Etical hacker and Informatin  security Consulanat. 
-- 🌱 I’m also freelance web developer and some of my project are (www.shubhamflex.com)
+- 👀 I’m Ethical hacker and Information security Consultant. 
+- 🌱 I’m also freelance web developer and some of my project are (https://www.shubhamflex.com)
 - 💞️ I’m cuurently learning some new freamworks.
 - 📫 You can reach by mail:- amol.bhavar1995@gmail.com, Linkedin:-https://www.linkedin.com/in/amol-bhavar, Insta Id: bhavaramol
  
